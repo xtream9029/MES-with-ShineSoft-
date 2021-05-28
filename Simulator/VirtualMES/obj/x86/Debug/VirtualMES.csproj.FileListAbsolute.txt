@@ -1,0 +1,696 @@
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\Config\DEFAULT.smd
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\Config\TB_EQUIP_INF_ROUTE.xlsx
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\Config\TB_TRAY_INF_ROUTE.xlsx
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\SEComSimulator.Conf
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\VirtualMES.exe.config
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\VirtualMES.exe
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\VirtualMES.pdb
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\netstandard.dll
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\System.AppContext.dll
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\System.Collections.Concurrent.dll
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\System.Collections.dll
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\System.Collections.NonGeneric.dll
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\System.Collections.Specialized.dll
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\System.ComponentModel.dll
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\System.ComponentModel.Primitives.dll
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\System.ComponentModel.TypeConverter.dll
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\System.Console.dll
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\System.Data.Common.dll
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\System.Diagnostics.Contracts.dll
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\System.Diagnostics.Debug.dll
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\System.Diagnostics.Process.dll
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\System.Diagnostics.Tools.dll
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\System.Diagnostics.TraceSource.dll
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\System.Diagnostics.Tracing.dll
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\System.Drawing.Primitives.dll
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\System.Dynamic.Runtime.dll
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\System.Globalization.Calendars.dll
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\System.Globalization.dll
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\System.Globalization.Extensions.dll
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\System.IO.Compression.dll
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\System.IO.dll
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\System.IO.FileSystem.dll
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\System.IO.FileSystem.Watcher.dll
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\System.IO.IsolatedStorage.dll
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\System.IO.MemoryMappedFiles.dll
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\System.IO.Pipes.dll
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\System.Linq.dll
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\System.Linq.Expressions.dll
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\System.Linq.Parallel.dll
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\System.Linq.Queryable.dll
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\System.Net.Http.dll
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\System.Net.NameResolution.dll
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\System.Net.NetworkInformation.dll
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\System.Net.Ping.dll
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\System.Net.Primitives.dll
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\System.Net.Requests.dll
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\System.Net.Security.dll
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\System.Net.Sockets.dll
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\System.Net.WebSockets.Client.dll
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\System.Net.WebSockets.dll
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\System.ObjectModel.dll
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\System.Reflection.dll
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\System.Reflection.Extensions.dll
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\System.Reflection.Primitives.dll
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\System.Resources.Reader.dll
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\System.Resources.ResourceManager.dll
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\System.Resources.Writer.dll
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\System.Runtime.dll
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\System.Runtime.Extensions.dll
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\System.Runtime.Handles.dll
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\System.Runtime.InteropServices.dll
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\System.Runtime.Numerics.dll
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\System.Runtime.Serialization.Formatters.dll
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\System.Security.Claims.dll
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\System.Security.Cryptography.Algorithms.dll
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\System.Security.Cryptography.Csp.dll
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\System.Security.Cryptography.Encoding.dll
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\System.Security.Cryptography.Primitives.dll
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\System.Security.Principal.dll
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\System.Security.SecureString.dll
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\System.Text.Encoding.dll
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\System.Text.RegularExpressions.dll
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\System.Threading.dll
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\System.Threading.Overlapped.dll
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\System.Threading.Tasks.dll
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\System.Threading.Thread.dll
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\System.Threading.ThreadPool.dll
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\System.Threading.Timer.dll
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\System.ValueTuple.dll
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\System.Xml.ReaderWriter.dll
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\System.Xml.XDocument.dll
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\System.Xml.XmlDocument.dll
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\System.Xml.XmlSerializer.dll
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\System.Xml.XPath.dll
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\System.Xml.XPath.XDocument.dll
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\AutoUpdater.NET.dll
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\log4net.dll
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\Microsoft.WindowsAPICodePack.dll
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\Oracle.ManagedDataAccess.dll
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\SEComEnabler.SEComCommon.dll
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\SEComEnabler.SEComPlugIn.dll
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\SEComEnabler.SECSMsgLibrary.dll
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\AutoUpdater.NET.pdb
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\AutoUpdater.NET.xml
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\log4net.xml
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\Microsoft.WindowsAPICodePack.xml
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\bin\x86\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\obj\x86\Debug\VirtualMES.csprojResolveAssemblyReference.cache
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\obj\x86\Debug\VirtualMES.csproj.VirtualMES.exe.config
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\obj\x86\Debug\VirtualMES.csproj.ResolveComReference.cache
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\obj\x86\Debug\VirtualMES.frmConfigure.resources
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\obj\x86\Debug\VirtualMES.frmEdit.resources
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\obj\x86\Debug\VirtualMES.frmExcelUpload.resources
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\obj\x86\Debug\VirtualMES.frmMES_Main.resources
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\obj\x86\Debug\VirtualMES.frmMES_S1F105.resources
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\obj\x86\Debug\VirtualMES.frmMES_S1F103.resources
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\obj\x86\Debug\VirtualMES.frmMES_S1F101.resources
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\obj\x86\Debug\VirtualMES.frmMES_S2F13.resources
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\obj\x86\Debug\VirtualMES.frmMES_S1F13.resources
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\obj\x86\Debug\VirtualMES.frmMES_S2F15.resources
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\obj\x86\Debug\VirtualMES.frmMES_S2F41.resources
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\obj\x86\Debug\VirtualMES.frmMES_S5F101.resources
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\obj\x86\Debug\VirtualMES.frmMES_S6F12.resources
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\obj\x86\Debug\VirtualMES.frmOracle.resources
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\obj\x86\Debug\VirtualMES.frmMain.resources
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\obj\x86\Debug\VirtualMES.frmOptions.resources
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\obj\x86\Debug\VirtualMES.Properties.Resources.resources
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\obj\x86\Debug\VirtualMES.csproj.GenerateResource.Cache
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\obj\x86\Debug\VirtualMES.csproj.CoreCompileInputs.cache
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\obj\x86\Debug\VirtualMES.exe
+D:\1100.ShineSoft\901.뉴앤텍_프로젝트\10.Source\VirtualMES\VirtualMES\obj\x86\Debug\VirtualMES.pdb
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\Config\DEFAULT.smd
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\Config\TB_EQUIP_INF_ROUTE.xlsx
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\Config\TB_TRAY_INF_ROUTE.xlsx
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\SEComSimulator.Conf
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\VirtualMES.exe.config
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\VirtualMES.exe
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\VirtualMES.pdb
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\netstandard.dll
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.AppContext.dll
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Collections.Concurrent.dll
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Collections.dll
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Collections.NonGeneric.dll
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Collections.Specialized.dll
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.ComponentModel.dll
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.ComponentModel.Primitives.dll
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.ComponentModel.TypeConverter.dll
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Console.dll
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Data.Common.dll
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Diagnostics.Contracts.dll
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Diagnostics.Debug.dll
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Diagnostics.Process.dll
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Diagnostics.Tools.dll
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Diagnostics.TraceSource.dll
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Diagnostics.Tracing.dll
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Drawing.Primitives.dll
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Dynamic.Runtime.dll
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Globalization.Calendars.dll
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Globalization.dll
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Globalization.Extensions.dll
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.IO.Compression.dll
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.IO.dll
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.IO.FileSystem.dll
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.IO.FileSystem.Watcher.dll
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.IO.IsolatedStorage.dll
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.IO.MemoryMappedFiles.dll
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.IO.Pipes.dll
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Linq.dll
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Linq.Expressions.dll
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Linq.Parallel.dll
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Linq.Queryable.dll
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Net.Http.dll
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Net.NameResolution.dll
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Net.NetworkInformation.dll
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Net.Ping.dll
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Net.Primitives.dll
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Net.Requests.dll
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Net.Security.dll
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Net.Sockets.dll
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Net.WebSockets.Client.dll
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Net.WebSockets.dll
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.ObjectModel.dll
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Reflection.dll
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Reflection.Extensions.dll
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Reflection.Primitives.dll
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Resources.Reader.dll
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Resources.ResourceManager.dll
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Resources.Writer.dll
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Runtime.dll
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Runtime.Extensions.dll
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Runtime.Handles.dll
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Runtime.InteropServices.dll
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Runtime.Numerics.dll
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Runtime.Serialization.Formatters.dll
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Security.Claims.dll
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Security.Cryptography.Algorithms.dll
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Security.Cryptography.Csp.dll
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Security.Cryptography.Encoding.dll
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Security.Cryptography.Primitives.dll
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Security.Principal.dll
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Security.SecureString.dll
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Text.Encoding.dll
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Text.RegularExpressions.dll
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Threading.dll
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Threading.Overlapped.dll
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Threading.Tasks.dll
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Threading.Thread.dll
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Threading.ThreadPool.dll
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Threading.Timer.dll
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.ValueTuple.dll
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Xml.ReaderWriter.dll
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Xml.XDocument.dll
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Xml.XmlDocument.dll
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Xml.XmlSerializer.dll
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Xml.XPath.dll
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Xml.XPath.XDocument.dll
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\AutoUpdater.NET.dll
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\log4net.dll
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\Microsoft.WindowsAPICodePack.dll
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\Oracle.ManagedDataAccess.dll
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\AutoUpdater.NET.pdb
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\AutoUpdater.NET.xml
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\log4net.xml
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\Microsoft.WindowsAPICodePack.xml
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\obj\x86\Debug\VirtualMES.csprojAssemblyReference.cache
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\obj\x86\Debug\VirtualMES.exe.config
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\obj\x86\Debug\VirtualMES.csproj.ResolveComReference.cache
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\obj\x86\Debug\VirtualMES.frmConfigure.resources
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\obj\x86\Debug\VirtualMES.frmEdit.resources
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\obj\x86\Debug\VirtualMES.frmExcelUpload.resources
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\obj\x86\Debug\VirtualMES.frmMES_Main.resources
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\obj\x86\Debug\VirtualMES.frmMES_S1F105.resources
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\obj\x86\Debug\VirtualMES.frmMES_S1F103.resources
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\obj\x86\Debug\VirtualMES.frmMES_S1F101.resources
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\obj\x86\Debug\VirtualMES.frmMES_S2F13.resources
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\obj\x86\Debug\VirtualMES.frmMES_S1F13.resources
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\obj\x86\Debug\VirtualMES.frmMES_S2F15.resources
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\obj\x86\Debug\VirtualMES.frmMES_S2F41.resources
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\obj\x86\Debug\VirtualMES.frmMES_S5F101.resources
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\obj\x86\Debug\VirtualMES.frmMES_S6F12.resources
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\obj\x86\Debug\VirtualMES.frmOracle.resources
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\obj\x86\Debug\VirtualMES.frmMain.resources
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\obj\x86\Debug\VirtualMES.frmOptions.resources
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\obj\x86\Debug\VirtualMES.Properties.Resources.resources
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\obj\x86\Debug\VirtualMES.csproj.GenerateResource.cache
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\obj\x86\Debug\VirtualMES.csproj.CopyComplete
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\obj\x86\Debug\VirtualMES.exe
+D:\1100.ShineSoft\200.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\obj\x86\Debug\VirtualMES.pdb
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\Config\DEFAULT.smd
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\Config\TB_EQUIP_INF_ROUTE.xlsx
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\Config\TB_TRAY_INF_ROUTE.xlsx
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\SEComSimulator.Conf
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\VirtualMES.exe.config
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\VirtualMES.exe
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\VirtualMES.pdb
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\netstandard.dll
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.AppContext.dll
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Collections.Concurrent.dll
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Collections.dll
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Collections.NonGeneric.dll
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Collections.Specialized.dll
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.ComponentModel.dll
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.ComponentModel.Primitives.dll
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.ComponentModel.TypeConverter.dll
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Console.dll
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Data.Common.dll
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Diagnostics.Contracts.dll
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Diagnostics.Debug.dll
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Diagnostics.Process.dll
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Diagnostics.Tools.dll
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Diagnostics.TraceSource.dll
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Diagnostics.Tracing.dll
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Drawing.Primitives.dll
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Dynamic.Runtime.dll
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Globalization.Calendars.dll
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Globalization.dll
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Globalization.Extensions.dll
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.IO.Compression.dll
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.IO.dll
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.IO.FileSystem.dll
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.IO.FileSystem.Watcher.dll
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.IO.IsolatedStorage.dll
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.IO.MemoryMappedFiles.dll
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.IO.Pipes.dll
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Linq.dll
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Linq.Expressions.dll
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Linq.Parallel.dll
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Linq.Queryable.dll
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Net.Http.dll
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Net.NameResolution.dll
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Net.NetworkInformation.dll
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Net.Ping.dll
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Net.Primitives.dll
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Net.Requests.dll
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Net.Security.dll
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Net.Sockets.dll
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Net.WebSockets.Client.dll
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Net.WebSockets.dll
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.ObjectModel.dll
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Reflection.dll
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Reflection.Extensions.dll
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Reflection.Primitives.dll
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Resources.Reader.dll
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Resources.ResourceManager.dll
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Resources.Writer.dll
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Runtime.dll
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Runtime.Extensions.dll
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Runtime.Handles.dll
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Runtime.InteropServices.dll
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Runtime.Numerics.dll
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Runtime.Serialization.Formatters.dll
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Security.Claims.dll
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Security.Cryptography.Algorithms.dll
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Security.Cryptography.Csp.dll
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Security.Cryptography.Encoding.dll
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Security.Cryptography.Primitives.dll
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Security.Principal.dll
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Security.SecureString.dll
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Text.Encoding.dll
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Text.RegularExpressions.dll
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Threading.dll
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Threading.Overlapped.dll
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Threading.Tasks.dll
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Threading.Thread.dll
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Threading.ThreadPool.dll
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Threading.Timer.dll
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.ValueTuple.dll
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Xml.ReaderWriter.dll
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Xml.XDocument.dll
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Xml.XmlDocument.dll
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Xml.XmlSerializer.dll
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Xml.XPath.dll
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\System.Xml.XPath.XDocument.dll
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\AutoUpdater.NET.dll
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\log4net.dll
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\Microsoft.WindowsAPICodePack.dll
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\Oracle.ManagedDataAccess.dll
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\AutoUpdater.NET.pdb
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\AutoUpdater.NET.xml
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\log4net.xml
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\Microsoft.WindowsAPICodePack.xml
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\obj\x86\Debug\VirtualMES.csprojAssemblyReference.cache
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\obj\x86\Debug\VirtualMES.exe.config
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\obj\x86\Debug\VirtualMES.csproj.ResolveComReference.cache
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\obj\x86\Debug\VirtualMES.frmConfigure.resources
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\obj\x86\Debug\VirtualMES.frmEdit.resources
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\obj\x86\Debug\VirtualMES.frmExcelUpload.resources
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\obj\x86\Debug\VirtualMES.frmMES_Main.resources
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\obj\x86\Debug\VirtualMES.frmMES_S1F105.resources
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\obj\x86\Debug\VirtualMES.frmMES_S1F103.resources
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\obj\x86\Debug\VirtualMES.frmMES_S1F101.resources
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\obj\x86\Debug\VirtualMES.frmMES_S2F13.resources
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\obj\x86\Debug\VirtualMES.frmMES_S1F13.resources
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\obj\x86\Debug\VirtualMES.frmMES_S2F15.resources
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\obj\x86\Debug\VirtualMES.frmMES_S2F41.resources
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\obj\x86\Debug\VirtualMES.frmMES_S5F101.resources
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\obj\x86\Debug\VirtualMES.frmMES_S6F12.resources
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\obj\x86\Debug\VirtualMES.frmOracle.resources
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\obj\x86\Debug\VirtualMES.frmMain.resources
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\obj\x86\Debug\VirtualMES.frmOptions.resources
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\obj\x86\Debug\VirtualMES.Properties.Resources.resources
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\obj\x86\Debug\VirtualMES.csproj.GenerateResource.cache
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\obj\x86\Debug\VirtualMES.csproj.CopyComplete
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\obj\x86\Debug\VirtualMES.exe
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\obj\x86\Debug\VirtualMES.pdb
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\SEComEnabler.SEComCommon.dll
+D:\3000.Customer\100.NNT\VirtualMES2\VirtualMES\VirtualMES\bin\x86\Debug\SEComEnabler.SEComPlugIn.dll
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\Config\DEFAULT.smd
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\Config\TB_EQUIP_INF_ROUTE.xlsx
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\Config\TB_TRAY_INF_ROUTE.xlsx
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\SEComSimulator.Conf
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\VirtualMES.exe.config
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\VirtualMES.exe
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\VirtualMES.pdb
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\netstandard.dll
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\System.AppContext.dll
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\System.Collections.Concurrent.dll
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\System.Collections.dll
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\System.Collections.NonGeneric.dll
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\System.Collections.Specialized.dll
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\System.ComponentModel.dll
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\System.ComponentModel.Primitives.dll
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\System.ComponentModel.TypeConverter.dll
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\System.Console.dll
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\System.Data.Common.dll
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\System.Diagnostics.Contracts.dll
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\System.Diagnostics.Debug.dll
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\System.Diagnostics.Process.dll
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\System.Diagnostics.Tools.dll
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\System.Diagnostics.TraceSource.dll
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\System.Diagnostics.Tracing.dll
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\System.Drawing.Primitives.dll
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\System.Dynamic.Runtime.dll
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\System.Globalization.Calendars.dll
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\System.Globalization.dll
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\System.Globalization.Extensions.dll
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\System.IO.Compression.dll
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\System.IO.dll
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\System.IO.FileSystem.dll
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\System.IO.FileSystem.Watcher.dll
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\System.IO.IsolatedStorage.dll
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\System.IO.MemoryMappedFiles.dll
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\System.IO.Pipes.dll
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\System.Linq.dll
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\System.Linq.Expressions.dll
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\System.Linq.Parallel.dll
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\System.Linq.Queryable.dll
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\System.Net.Http.dll
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\System.Net.NameResolution.dll
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\System.Net.NetworkInformation.dll
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\System.Net.Ping.dll
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\System.Net.Primitives.dll
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\System.Net.Requests.dll
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\System.Net.Security.dll
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\System.Net.Sockets.dll
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\System.Net.WebSockets.Client.dll
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\System.Net.WebSockets.dll
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\System.ObjectModel.dll
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\System.Reflection.dll
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\System.Reflection.Extensions.dll
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\System.Reflection.Primitives.dll
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\System.Resources.Reader.dll
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\System.Resources.ResourceManager.dll
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\System.Resources.Writer.dll
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\System.Runtime.dll
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\System.Runtime.Extensions.dll
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\System.Runtime.Handles.dll
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\System.Runtime.InteropServices.dll
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\System.Runtime.Numerics.dll
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\System.Runtime.Serialization.Formatters.dll
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\System.Security.Claims.dll
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\System.Security.Cryptography.Algorithms.dll
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\System.Security.Cryptography.Csp.dll
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\System.Security.Cryptography.Encoding.dll
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\System.Security.Cryptography.Primitives.dll
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\System.Security.Principal.dll
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\System.Security.SecureString.dll
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\System.Text.Encoding.dll
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\System.Text.RegularExpressions.dll
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\System.Threading.dll
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\System.Threading.Overlapped.dll
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\System.Threading.Tasks.dll
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\System.Threading.Thread.dll
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\System.Threading.ThreadPool.dll
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\System.Threading.Timer.dll
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\System.ValueTuple.dll
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\System.Xml.ReaderWriter.dll
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\System.Xml.XDocument.dll
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\System.Xml.XmlDocument.dll
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\System.Xml.XmlSerializer.dll
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\System.Xml.XPath.dll
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\System.Xml.XPath.XDocument.dll
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\AutoUpdater.NET.dll
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\log4net.dll
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\Microsoft.WindowsAPICodePack.dll
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\Oracle.ManagedDataAccess.dll
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\SEComEnabler.SEComCommon.dll
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\SEComEnabler.SEComPlugIn.dll
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\AutoUpdater.NET.pdb
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\AutoUpdater.NET.xml
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\log4net.xml
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\Microsoft.WindowsAPICodePack.xml
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\bin\x86\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\obj\x86\Debug\VirtualMES.csprojAssemblyReference.cache
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\obj\x86\Debug\VirtualMES.exe.config
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\obj\x86\Debug\VirtualMES.csproj.ResolveComReference.cache
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\obj\x86\Debug\VirtualMES.frmConfigure.resources
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\obj\x86\Debug\VirtualMES.frmEdit.resources
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\obj\x86\Debug\VirtualMES.frmExcelUpload.resources
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\obj\x86\Debug\VirtualMES.frmMES_Main.resources
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\obj\x86\Debug\VirtualMES.frmMES_S1F105.resources
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\obj\x86\Debug\VirtualMES.frmMES_S1F103.resources
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\obj\x86\Debug\VirtualMES.frmMES_S1F101.resources
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\obj\x86\Debug\VirtualMES.frmMES_S2F13.resources
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\obj\x86\Debug\VirtualMES.frmMES_S1F13.resources
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\obj\x86\Debug\VirtualMES.frmMES_S2F15.resources
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\obj\x86\Debug\VirtualMES.frmMES_S2F41.resources
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\obj\x86\Debug\VirtualMES.frmMES_S5F101.resources
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\obj\x86\Debug\VirtualMES.frmMES_S6F12.resources
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\obj\x86\Debug\VirtualMES.frmOracle.resources
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\obj\x86\Debug\VirtualMES.frmMain.resources
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\obj\x86\Debug\VirtualMES.frmOptions.resources
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\obj\x86\Debug\VirtualMES.Properties.Resources.resources
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\obj\x86\Debug\VirtualMES.csproj.GenerateResource.cache
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\obj\x86\Debug\VirtualMES.csproj.CoreCompileInputs.cache
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\obj\x86\Debug\VirtualMES.csproj.CopyComplete
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\obj\x86\Debug\VirtualMES.exe
+D:\캡스톤\시뮬레이터 코드\VirtualMES\VirtualMES\obj\x86\Debug\VirtualMES.pdb
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\Config\DEFAULT.smd
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\Config\TB_EQUIP_INF_ROUTE.xlsx
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\Config\TB_TRAY_INF_ROUTE.xlsx
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\SEComSimulator.Conf
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\VirtualMES.exe.config
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\VirtualMES.exe
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\VirtualMES.pdb
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\netstandard.dll
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\System.AppContext.dll
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\System.Collections.Concurrent.dll
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\System.Collections.dll
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\System.Collections.NonGeneric.dll
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\System.Collections.Specialized.dll
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\System.ComponentModel.dll
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\System.ComponentModel.Primitives.dll
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\System.ComponentModel.TypeConverter.dll
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\System.Console.dll
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\System.Data.Common.dll
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\System.Diagnostics.Contracts.dll
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\System.Diagnostics.Debug.dll
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\System.Diagnostics.Process.dll
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\System.Diagnostics.Tools.dll
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\System.Diagnostics.TraceSource.dll
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\System.Diagnostics.Tracing.dll
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\System.Drawing.Primitives.dll
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\System.Dynamic.Runtime.dll
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\System.Globalization.Calendars.dll
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\System.Globalization.dll
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\System.Globalization.Extensions.dll
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\System.IO.Compression.dll
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\System.IO.dll
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\System.IO.FileSystem.dll
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\System.IO.FileSystem.Watcher.dll
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\System.IO.IsolatedStorage.dll
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\System.IO.MemoryMappedFiles.dll
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\System.IO.Pipes.dll
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\System.Linq.dll
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\System.Linq.Expressions.dll
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\System.Linq.Parallel.dll
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\System.Linq.Queryable.dll
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\System.Net.Http.dll
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\System.Net.NameResolution.dll
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\System.Net.NetworkInformation.dll
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\System.Net.Ping.dll
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\System.Net.Primitives.dll
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\System.Net.Requests.dll
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\System.Net.Security.dll
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\System.Net.Sockets.dll
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\System.Net.WebSockets.Client.dll
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\System.Net.WebSockets.dll
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\System.ObjectModel.dll
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\System.Reflection.dll
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\System.Reflection.Extensions.dll
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\System.Reflection.Primitives.dll
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\System.Resources.Reader.dll
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\System.Resources.ResourceManager.dll
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\System.Resources.Writer.dll
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\System.Runtime.dll
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\System.Runtime.Extensions.dll
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\System.Runtime.Handles.dll
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\System.Runtime.InteropServices.dll
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\System.Runtime.Numerics.dll
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\System.Runtime.Serialization.Formatters.dll
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\System.Security.Claims.dll
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\System.Security.Cryptography.Algorithms.dll
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\System.Security.Cryptography.Csp.dll
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\System.Security.Cryptography.Encoding.dll
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\System.Security.Cryptography.Primitives.dll
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\System.Security.Principal.dll
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\System.Security.SecureString.dll
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\System.Text.Encoding.dll
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\System.Text.RegularExpressions.dll
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\System.Threading.dll
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\System.Threading.Overlapped.dll
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\System.Threading.Tasks.dll
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\System.Threading.Thread.dll
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\System.Threading.ThreadPool.dll
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\System.Threading.Timer.dll
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\System.ValueTuple.dll
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\System.Xml.ReaderWriter.dll
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\System.Xml.XDocument.dll
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\System.Xml.XmlDocument.dll
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\System.Xml.XmlSerializer.dll
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\System.Xml.XPath.dll
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\System.Xml.XPath.XDocument.dll
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\AutoUpdater.NET.dll
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\log4net.dll
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\Microsoft.WindowsAPICodePack.dll
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\Oracle.ManagedDataAccess.dll
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\SEComEnabler.SEComCommon.dll
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\SEComEnabler.SEComPlugIn.dll
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\AutoUpdater.NET.pdb
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\AutoUpdater.NET.xml
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\log4net.xml
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\Microsoft.WindowsAPICodePack.xml
+D:\source\Simulator\Simulator\VirtualMES\bin\x86\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+D:\source\Simulator\Simulator\VirtualMES\obj\x86\Debug\VirtualMES.csprojAssemblyReference.cache
+D:\source\Simulator\Simulator\VirtualMES\obj\x86\Debug\VirtualMES.exe.config
+D:\source\Simulator\Simulator\VirtualMES\obj\x86\Debug\VirtualMES.csproj.ResolveComReference.cache
+D:\source\Simulator\Simulator\VirtualMES\obj\x86\Debug\VirtualMES.frmConfigure.resources
+D:\source\Simulator\Simulator\VirtualMES\obj\x86\Debug\VirtualMES.frmEdit.resources
+D:\source\Simulator\Simulator\VirtualMES\obj\x86\Debug\VirtualMES.frmExcelUpload.resources
+D:\source\Simulator\Simulator\VirtualMES\obj\x86\Debug\VirtualMES.frmMES_Main.resources
+D:\source\Simulator\Simulator\VirtualMES\obj\x86\Debug\VirtualMES.frmMES_S1F105.resources
+D:\source\Simulator\Simulator\VirtualMES\obj\x86\Debug\VirtualMES.frmMES_S1F103.resources
+D:\source\Simulator\Simulator\VirtualMES\obj\x86\Debug\VirtualMES.frmMES_S1F101.resources
+D:\source\Simulator\Simulator\VirtualMES\obj\x86\Debug\VirtualMES.frmMES_S2F13.resources
+D:\source\Simulator\Simulator\VirtualMES\obj\x86\Debug\VirtualMES.frmMES_S1F13.resources
+D:\source\Simulator\Simulator\VirtualMES\obj\x86\Debug\VirtualMES.frmMES_S2F15.resources
+D:\source\Simulator\Simulator\VirtualMES\obj\x86\Debug\VirtualMES.frmMES_S2F41.resources
+D:\source\Simulator\Simulator\VirtualMES\obj\x86\Debug\VirtualMES.frmMES_S5F101.resources
+D:\source\Simulator\Simulator\VirtualMES\obj\x86\Debug\VirtualMES.frmMES_S6F12.resources
+D:\source\Simulator\Simulator\VirtualMES\obj\x86\Debug\VirtualMES.frmOracle.resources
+D:\source\Simulator\Simulator\VirtualMES\obj\x86\Debug\VirtualMES.frmMain.resources
+D:\source\Simulator\Simulator\VirtualMES\obj\x86\Debug\VirtualMES.frmOptions.resources
+D:\source\Simulator\Simulator\VirtualMES\obj\x86\Debug\VirtualMES.Properties.Resources.resources
+D:\source\Simulator\Simulator\VirtualMES\obj\x86\Debug\VirtualMES.csproj.GenerateResource.cache
+D:\source\Simulator\Simulator\VirtualMES\obj\x86\Debug\VirtualMES.csproj.CoreCompileInputs.cache
+D:\source\Simulator\Simulator\VirtualMES\obj\x86\Debug\VirtualMES.csproj.CopyComplete
+D:\source\Simulator\Simulator\VirtualMES\obj\x86\Debug\VirtualMES.exe
+D:\source\Simulator\Simulator\VirtualMES\obj\x86\Debug\VirtualMES.pdb

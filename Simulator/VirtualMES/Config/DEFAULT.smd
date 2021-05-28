@@ -1,0 +1,865 @@
+<?xml version="1.0"?>
+<SECSMessage BuildDateTime="11/7/2019 4:31:19 PM">
+	
+<S1F13>
+<Header>
+<MessageName>S1F13</MessageName>
+<Description>Establish Communications Request (CR)</Description>
+<Stream>1</Stream>
+<Function>13</Function>
+<Direction>H-&gt;E</Direction>
+<Wait>True</Wait>
+<AutoReply>True</AutoReply>
+<NoLogging>False</NoLogging>
+</Header>
+<DataItem>
+<L Count="2" Fixed="True" ItemName="">
+<A Count="4" Fixed="True" ItemName="MDLN">    </A>
+<A Count="6" Fixed="True" ItemName="SOFTREV">      </A>
+</L>
+</DataItem>
+</S1F13>
+	
+<S1F14>
+<Header>
+<MessageName>S1F14</MessageName>
+<Description>Establish Communications Request Acknowledge (CRA)</Description>
+<Stream>1</Stream>
+<Function>14</Function>
+<Direction>H&lt;-E</Direction>
+<Wait>False</Wait>
+<AutoReply>False</AutoReply>
+<NoLogging>False</NoLogging>
+</Header>
+<DataItem>
+<L Count="2" Fixed="True" ItemName="">
+<B Count="1" Fixed="True" ItemName="COMMACK">0</B>
+<L Count="2" Fixed="True" ItemName="">
+<A Count="4" Fixed="True" ItemName="MDLN">    </A>
+<A Count="6" Fixed="True" ItemName="SOFTREV">      </A>
+</L>
+</L>
+</DataItem>
+</S1F14>
+	
+<S1F101>
+<Header>
+<MessageName>S1F101</MessageName>
+<Description>Equipment Status Send</Description>
+<Stream>1</Stream>
+<Function>101</Function>
+<Direction>H-&gt;E</Direction>
+<Wait>True</Wait>
+<AutoReply>False</AutoReply>
+<NoLogging>False</NoLogging>
+</Header>
+<DataItem>
+<L Count="1" Fixed="True" ItemName="">
+<L Count="2" Fixed="True" ItemName="">
+<A Count="10" Fixed="True" ItemName="EQPID">          </A>
+<U2 Count="1" Fixed="True" ItemName="STATE">0</U2>
+</L>
+</L>
+</DataItem>
+</S1F101>
+<S1F102>
+<Header>
+<MessageName>S1F102</MessageName>
+<Description></Description>
+<Stream>1</Stream>
+<Function>102</Function>
+<Direction>H&lt;-E</Direction>
+<Wait>False</Wait>
+<AutoReply>False</AutoReply>
+<NoLogging>False</NoLogging>
+</Header>
+<DataItem>
+<B Count="1" Fixed="True" ItemName="ACK6">0</B>
+</DataItem>
+</S1F102>
+<S1F103>
+<Header>
+<MessageName>S1F103</MessageName>
+<Description>Selected TRACK Status Request (STR)</Description>
+<Stream>1</Stream>
+<Function>103</Function>
+<Direction>H-&gt;E</Direction>
+<Wait>True</Wait>
+<AutoReply>False</AutoReply>
+<NoLogging>False</NoLogging>
+</Header>
+<DataItem>
+<L Count="1" Fixed="True" ItemName="">
+<A Count="5" Fixed="True" ItemName="TRACK_NO">     </A>
+</L>
+</DataItem>
+</S1F103>
+<S1F104>
+<Header>
+<MessageName>S1F104</MessageName>
+<Description></Description>
+<Stream>1</Stream>
+<Function>104</Function>
+<Direction>H&lt;-E</Direction>
+<Wait>False</Wait>
+<AutoReply>False</AutoReply>
+<NoLogging>False</NoLogging>
+</Header>
+<DataItem>
+<L Count="1" Fixed="True" ItemName="">
+<L Count="4" Fixed="True" ItemName="">
+<A Count="5" Fixed="True" ItemName="TRACK_NO">     </A>
+<A Count="6" Fixed="True" ItemName="TRAY_ID_BOTTOM">      </A>
+<A Count="6" Fixed="True" ItemName="TRAY_ID_TOP">      </A>
+<U2 Count="1" Fixed="True" ItemName="TRACK_STATUS">0</U2>
+</L>
+</L>
+</DataItem>
+</S1F104>
+<S1F105>
+<Header>
+<MessageName>S1F105</MessageName>
+<Description>Selected TRAY Status Request (STR)</Description>
+<Stream>1</Stream>
+<Function>105</Function>
+<Direction>H-&gt;E</Direction>
+<Wait>True</Wait>
+<AutoReply>False</AutoReply>
+<NoLogging>False</NoLogging>
+</Header>
+<DataItem>
+<L Count="1" Fixed="True" ItemName="">
+<A Count="6" Fixed="True" ItemName="TRAYID">      </A>
+</L>
+</DataItem>
+</S1F105>
+<S1F106>
+<Header>
+<MessageName>S1F106</MessageName>
+<Description></Description>
+<Stream>1</Stream>
+<Function>106</Function>
+<Direction>H&lt;-E</Direction>
+<Wait>False</Wait>
+<AutoReply>False</AutoReply>
+<NoLogging>False</NoLogging>
+</Header>
+<DataItem>
+<L Count="1" Fixed="True" ItemName="">
+<L Count="4" Fixed="True" ItemName="">
+<A Count="5" Fixed="True" ItemName="TRACK_NO">     </A>
+<A Count="6" Fixed="True" ItemName="TRAY_ID_BOTTOM">      </A>
+<A Count="6" Fixed="True" ItemName="TRAY_ID_TOP">      </A>
+<U2 Count="1" Fixed="True" ItemName="TRACK_STATUS">0</U2>
+</L>
+</L>
+</DataItem>
+</S1F106>
+<S2F13>
+<Header>
+<MessageName>S2F13</MessageName>
+<Description>Equipment Constant Request (ECR)</Description>
+<Stream>2</Stream>
+<Function>13</Function>
+<Direction>H-&gt;E</Direction>
+<Wait>True</Wait>
+<AutoReply>False</AutoReply>
+<NoLogging>False</NoLogging>
+</Header>
+<DataItem>
+<L Count="1" Fixed="True" ItemName="">
+<A Count="5" Fixed="True" ItemName="TRACK_NO">     </A>
+</L>
+</DataItem>
+</S2F13>
+<S2F14>
+<Header>
+<MessageName>S2F14</MessageName>
+<Description></Description>
+<Stream>2</Stream>
+<Function>14</Function>
+<Direction>H&lt;-E</Direction>
+<Wait>False</Wait>
+<AutoReply>False</AutoReply>
+<NoLogging>False</NoLogging>
+</Header>
+<DataItem>
+<L Count="1" Fixed="True" ItemName="">
+<L Count="2" Fixed="True" ItemName="">
+<A Count="5" Fixed="True" ItemName="TRACK_NO">     </A>
+<A Count="20" Fixed="True" ItemName="SEC">                    </A>
+</L>
+</L>
+</DataItem>
+</S2F14>
+<S2F15>
+<Header>
+<MessageName>S2F15</MessageName>
+<Description>New Equipment Constant Send (ECS)</Description>
+<Stream>2</Stream>
+<Function>15</Function>
+<Direction>H-&gt;E</Direction>
+<Wait>True</Wait>
+<AutoReply>False</AutoReply>
+<NoLogging>False</NoLogging>
+</Header>
+<DataItem>
+<L Count="1" Fixed="True" ItemName="">
+<L Count="2" Fixed="True" ItemName="">
+<A Count="5" Fixed="True" ItemName="TRACK_NO">     </A>
+<A Count="20" Fixed="True" ItemName="SEC">                    </A>
+</L>
+</L>
+</DataItem>
+</S2F15>
+	
+<S2F16>
+<Header>
+<MessageName>S2F16</MessageName>
+<Description></Description>
+<Stream>2</Stream>
+<Function>16</Function>
+<Direction>H&lt;-E</Direction>
+<Wait>False</Wait>
+<AutoReply>False</AutoReply>
+<NoLogging>False</NoLogging>
+</Header>
+<DataItem>
+<B Count="1" Fixed="True" ItemName="ECACK">0</B>
+</DataItem>
+</S2F16>
+<S2F41_101>
+<Header>
+<MessageName>S2F41_101</MessageName>
+<Description>Host Command Send(HCS)</Description>
+<Stream>2</Stream>
+<Function>41</Function>
+<Direction>H-&gt;E</Direction>
+<Wait>True</Wait>
+<AutoReply>False</AutoReply>
+<NoLogging>False</NoLogging>
+</Header>
+<DataItem>
+<L Count="3" Fixed="True" ItemName="">
+<U2 Count="1" Fixed="True" ItemName="RCMD">101</U2>
+<U2 Count="1" Fixed="True" ItemName="WORK_TYPE">2</U2>
+<L Count="1" Fixed="True" ItemName="">
+<L Count="5" Fixed="True" ItemName="">
+<A Count="5" Fixed="True" ItemName="STACKER_ID">     </A>
+<A Count="6" Fixed="True" ItemName="BOTTOM_TRAYID">      </A>
+<A Count="6" Fixed="True" ItemName="TOP_TRAYID">      </A>
+<A Count="11" Fixed="True" ItemName="LOCATION">           </A>
+<A Count="5" Fixed="True" ItemName="TO_TRACK">     </A>
+</L>
+</L>
+</L>
+</DataItem>
+</S2F41_101>
+<S2F42>
+<Header>
+<MessageName>S2F42</MessageName>
+<Description></Description>
+<Stream>2</Stream>
+<Function>42</Function>
+<Direction>H&lt;-E</Direction>
+<Wait>False</Wait>
+<AutoReply>False</AutoReply>
+<NoLogging>False</NoLogging>
+</Header>
+<DataItem>
+<B Count="1" Fixed="True" ItemName="HCACK2">0</B>
+</DataItem>
+</S2F42>
+<S2F41_102>
+<Header>
+<MessageName>S2F41_102</MessageName>
+<Description>Host Command Send(HCS)</Description>
+<Stream>2</Stream>
+<Function>41</Function>
+<Direction>H-&gt;E</Direction>
+<Wait>True</Wait>
+<AutoReply>False</AutoReply>
+<NoLogging>False</NoLogging>
+</Header>
+<DataItem>
+<L Count="7" Fixed="True" ItemName="">
+<U2 Count="1" Fixed="True" ItemName="RCMD">102</U2>
+<U2 Count="1" Fixed="True" ItemName="WORK_TYPE">4</U2>
+<A Count="5" Fixed="True" ItemName="STACKER_ID">     </A>
+<A Count="6" Fixed="True" ItemName="BOTTOM_TRAYID">      </A>
+<A Count="6" Fixed="True" ItemName="TOP_TRAYID">      </A>
+<A Count="11" Fixed="True" ItemName="FROM_LOCATION">           </A>
+<A Count="11" Fixed="True" ItemName="TO_LOCATION">           </A>
+</L>
+</DataItem>
+</S2F41_102>
+<S2F41_200>
+<Header>
+<MessageName>S2F41_200</MessageName>
+<Description>Host Command Send(HCS)</Description>
+<Stream>2</Stream>
+<Function>41</Function>
+<Direction>H-&gt;E</Direction>
+<Wait>True</Wait>
+<AutoReply>False</AutoReply>
+<NoLogging>False</NoLogging>
+</Header>
+<DataItem>
+<L Count="5" Fixed="True" ItemName="">
+<U2 Count="1" Fixed="True" ItemName="RCMD">200</U2>
+<U2 Count="1" Fixed="True" ItemName="WORK_TYPE">7</U2>
+<A Count="5" Fixed="True" ItemName="TACKER_ID">     </A>
+<U2 Count="1" Fixed="True" ItemName="ERROR_CODE">0</U2>
+<L Count="1" Fixed="True" ItemName="">
+<A Count="11" Fixed="True" ItemName="LOCATION">           </A>
+</L>
+</L>
+</DataItem>
+</S2F41_200>
+<S5F1>
+<Header>
+<MessageName>S5F1</MessageName>
+<Description>Alarm Report Send (ARS)</Description>
+<Stream>5</Stream>
+<Function>1</Function>
+<Direction>H&lt;-E</Direction>
+<Wait>True</Wait>
+<AutoReply>False</AutoReply>
+<NoLogging>False</NoLogging>
+</Header>
+<DataItem>
+<L Count="3" Fixed="True" ItemName="">
+<A Count="10" Fixed="True" ItemName="EQPID">          </A>
+<U2 Count="1" Fixed="True" ItemName="ALST">0</U2>
+<A Count="4" Fixed="True" ItemName="ALID">    </A>
+</L>
+</DataItem>
+</S5F1>
+<S5F2>
+<Header>
+<MessageName>S5F2</MessageName>
+<Description></Description>
+<Stream>5</Stream>
+<Function>2</Function>
+<Direction>H-&gt;E</Direction>
+<Wait>False</Wait>
+<AutoReply>False</AutoReply>
+<NoLogging>False</NoLogging>
+</Header>
+<DataItem>
+<B Count="1" Fixed="True" ItemName="ACKC5">0</B>
+</DataItem>
+</S5F2>
+<S5F101>
+<Header>
+<MessageName>S5F101</MessageName>
+<Description>MES Alarm Report Send (MARS)</Description>
+<Stream>5</Stream>
+<Function>101</Function>
+<Direction>H-&gt;E</Direction>
+<Wait>True</Wait>
+<AutoReply>True</AutoReply>
+<NoLogging>False</NoLogging>
+</Header>
+<DataItem>
+<L Count="3" Fixed="True" ItemName="">
+<A Count="6" Fixed="True" ItemName="BOTTOM_TRAYID">      </A>
+<A Count="6" Fixed="True" ItemName="TOP_TRAYID">      </A>
+<U2 Count="1" Fixed="True" ItemName="MES_CODE">0</U2>
+</L>
+</DataItem>
+</S5F101>
+<S5F102>
+<Header>
+<MessageName>S5F102</MessageName>
+<Description></Description>
+<Stream>5</Stream>
+<Function>102</Function>
+<Direction>H&lt;-E</Direction>
+<Wait>False</Wait>
+<AutoReply>False</AutoReply>
+<NoLogging>False</NoLogging>
+</Header>
+<DataItem>
+<B Count="1" Fixed="True" ItemName="ACKC5">0</B>
+</DataItem>
+</S5F102>
+
+<S6F11_1>
+<Header>
+<MessageName>S6F11_1</MessageName>
+<Description>TEST_1</Description>
+<Stream>6</Stream>
+<Function>11</Function>
+<Direction>H&lt;-E</Direction>
+<Wait>True</Wait>
+<AutoReply>False</AutoReply>
+<NoLogging>False</NoLogging>
+</Header>
+<DataItem>
+<L Count="3" Fixed="True" ItemName="">
+<U4 Count="1" Fixed="True" ItemName="DATAID">1566994831</U4>
+<U4 Count="1" Fixed="True" ItemName="CEID">10815</U4>
+<L Count="1" Fixed="True" ItemName="RPTIDCOUNT">   
+<L Count="2" Fixed="True" ItemName="">
+   <U4 Count="1" Fixed="True" ItemName="RPTID">200</U4>
+   <L Count="6" Fixed="True" ItemName="VCOUNT">
+   <A Count="7" Fixed="True" ItemName="">OpenCST</A>
+   <A Count="5" Fixed="True" ItemName="">OCSID</A>
+   <A Count="0" Fixed="True" ItemName=""></A>
+   <A Count="2" Fixed="True" ItemName="">PU</A>
+   <A Count="2" Fixed="True" ItemName="">PL</A>
+   <U1 Count="1" Fixed="True" ItemName="">2</U1>
+</L>
+</L>
+</L>
+</L>
+</DataItem>
+</S6F11_1>   
+      
+<S6F11_2>
+<Header>
+<MessageName>S6F11_2</MessageName>
+<Description>TEST_2</Description>
+<Stream>6</Stream>
+<Function>11</Function>
+<Direction>H&lt;-E</Direction>
+<Wait>True</Wait>
+<AutoReply>False</AutoReply>
+<NoLogging>False</NoLogging>
+</Header>
+<DataItem>
+<L Count="3" Fixed="True" ItemName="">
+<U4 Count="1" Fixed="True" ItemName="DATAID">1566994831</U4>
+<U4 Count="1" Fixed="True" ItemName="CEID">10806</U4>
+<L Count="2" Fixed="True" ItemName="RPTIDCOUNT">   
+<L Count="2" Fixed="True" ItemName="">
+   <U4 Count="1" Fixed="True" ItemName="RPTID">200</U4>
+   <L Count="6" Fixed="True" ItemName="VCOUNT">
+   <A Count="7" Fixed="True" ItemName="">OpenCST</A>
+   <A Count="5" Fixed="True" ItemName="">OCSID</A>
+   <A Count="0" Fixed="True" ItemName=""></A>
+   <A Count="2" Fixed="True" ItemName="">PU</A>
+   <A Count="2" Fixed="True" ItemName="">PL</A>
+   <U1 Count="1" Fixed="True" ItemName="">2</U1>
+</L>
+</L>
+<L Count="2" Fixed="True" ItemName="">
+   <U4 Count="1" Fixed="True" ItemName="RPTID">400</U4>
+   <L Count="1" Fixed="True" ItemName="VCOUNT">
+      <A Count="25" Fixed="True" ItemName="">PPPEEEEEEEEEEEEEEEEEEEEEE</A>
+</L>
+</L>
+</L>
+</L>
+</DataItem>
+</S6F11_2>
+
+<S6F11_3>
+<Header>
+<MessageName>S6F11_3</MessageName>
+<Description>TEST_3</Description>
+<Stream>6</Stream>
+<Function>11</Function>
+<Direction>H&lt;-E</Direction>
+<Wait>True</Wait>
+<AutoReply>False</AutoReply>
+<NoLogging>False</NoLogging>
+</Header>
+<DataItem>
+<L Count="3" Fixed="True" ItemName="">
+<U4 Count="1" Fixed="True" ItemName="DATAID">1566994836</U4>
+<U4 Count="1" Fixed="True" ItemName="CEID">10815</U4>
+<L Count="1" Fixed="True" ItemName="RPTIDCOUNT">   
+<L Count="2" Fixed="True" ItemName="">
+   <U4 Count="1" Fixed="True" ItemName="RPTID">200</U4>
+   <L Count="6" Fixed="True" ItemName="">
+   <A Count="4" Fixed="True" ItemName="">SMIF</A>
+   <A Count="16" Fixed="True" ItemName="">SMIF01</A>
+   <A Count="0" Fixed="True" ItemName=""></A>
+   <A Count="2" Fixed="True" ItemName="">PU</A>
+   <A Count="2" Fixed="True" ItemName="">PL</A>
+   <U1 Count="1" Fixed="True" ItemName="">2</U1>
+</L>
+</L>
+</L>
+</L>
+</DataItem>
+</S6F11_3>      
+   
+<S6F11_4>
+<Header>
+<MessageName>S6F11_4</MessageName>
+<Description>TEST_4</Description>
+<Stream>6</Stream>
+<Function>11</Function>
+<Direction>H&lt;-E</Direction>
+<Wait>True</Wait>
+<AutoReply>False</AutoReply>
+<NoLogging>False</NoLogging>
+</Header>
+<DataItem>
+<L Count="3" Fixed="True" ItemName="">
+<U4 Count="1" Fixed="True" ItemName="DATAID">1566994838</U4>
+<U4 Count="1" Fixed="True" ItemName="CEID">10806</U4>
+<L Count="2" Fixed="True" ItemName="">   
+<L Count="2" Fixed="True" ItemName="">
+   <U4 Count="1" Fixed="True" ItemName="">200</U4>
+   <L Count="6" Fixed="True" ItemName="">
+   <A Count="4" Fixed="True" ItemName="">SMIF</A>
+   <A Count="6" Fixed="True" ItemName="">SMIF01</A>
+   <A Count="0" Fixed="True" ItemName=""></A>
+   <A Count="2" Fixed="True" ItemName="">PU</A>
+   <A Count="2" Fixed="True" ItemName="">PL</A>
+   <U1 Count="1" Fixed="True" ItemName="">2</U1>
+</L>
+</L>
+<L Count="2" Fixed="True" ItemName="">
+   <U4 Count="1" Fixed="True" ItemName="">400</U4>
+   <L Count="2" Fixed="True" ItemName="">
+      <A Count="25" Fixed="True" ItemName="">EEEEEEEEEEEEEEEEEEEEEEEEE</A>
+      <A Count="25" Fixed="True" ItemName="">PPPEEEEEEEEEEEEEEEEEEEEEE</A>
+</L>
+</L>
+</L>
+</L>
+</DataItem>
+</S6F11_4>
+   
+<S6F11_5>
+<Header>
+<MessageName>S6F11_5</MessageName>
+<Description>TEST_5</Description>
+<Stream>6</Stream>
+<Function>11</Function>
+<Direction>H&lt;-E</Direction>
+<Wait>True</Wait>
+<AutoReply>False</AutoReply>
+<NoLogging>False</NoLogging>
+</Header>
+<DataItem>
+<L Count="3" Fixed="True" ItemName="">
+<U4 Count="1" Fixed="True" ItemName="DATAID">1566998524</U4>
+<U4 Count="1" Fixed="True" ItemName="CEID">10500</U4>
+<L Count="1" Fixed="True" ItemName="RPTIDCOUNT">   
+<L Count="2" Fixed="True" ItemName="">
+   <U4 Count="1" Fixed="True" ItemName="RPTID">200</U4>
+   <L Count="6" Fixed="True" ItemName="">
+   <A Count="0" Fixed="True" ItemName=""></A>
+   <A Count="0" Fixed="True" ItemName=""></A>
+   <A Count="6" Fixed="True" ItemName="">000001</A>
+   <A Count="2" Fixed="True" ItemName="">PU</A>
+   <A Count="2" Fixed="True" ItemName="">PL</A>
+   <U1 Count="1" Fixed="True" ItemName="">2</U1>
+</L>
+</L>
+</L>
+</L>
+</DataItem>
+</S6F11_5>   
+
+<S6F11_6>
+<Header>
+<MessageName>S6F11_6</MessageName>
+<Description>TEST_6</Description>
+<Stream>6</Stream>
+<Function>11</Function>
+<Direction>H&lt;-E</Direction>
+<Wait>True</Wait>
+<AutoReply>False</AutoReply>
+<NoLogging>False</NoLogging>
+</Header>
+<DataItem>
+<L Count="3" Fixed="True" ItemName="">
+<U4 Count="1" Fixed="True" ItemName="DATAID">1566998526</U4>
+<U4 Count="1" Fixed="True" ItemName="CEID">10825</U4>
+<L Count="2" Fixed="True" ItemName="RPTIDCOUNT">   
+<L Count="2" Fixed="True" ItemName="">
+   <U4 Count="1" Fixed="True" ItemName="RPTID">200</U4>
+   <L Count="6" Fixed="True" ItemName="">
+   <A Count="7" Fixed="True" ItemName="">OpenCST</A>
+   <A Count="0" Fixed="True" ItemName=""></A>
+   <A Count="6" Fixed="True" ItemName="">(null)</A>
+   <A Count="2" Fixed="True" ItemName="">PU</A>
+   <A Count="2" Fixed="True" ItemName="">PL</A>
+   <U1 Count="1" Fixed="True" ItemName="">2</U1>
+</L>
+</L>
+<L Count="2" Fixed="True" ItemName="">
+   <U4 Count="1" Fixed="True" ItemName="RPTID">500</U4>
+   <L Count="3" Fixed="True" ItemName="">
+      <A Count="0" Fixed="True" ItemName=""></A>
+      <A Count="1" Fixed="True" ItemName="">1</A>
+      <A Count="10" Fixed="True" ItemName="">OC366</A>
+</L>
+</L>
+</L>
+</L>
+</DataItem>
+</S6F11_6>
+   
+<S6F11_7>
+<Header>
+<MessageName>S6F11_7</MessageName>
+<Description>TEST_7</Description>
+<Stream>6</Stream>
+<Function>11</Function>
+<Direction>H&lt;-E</Direction>
+<Wait>True</Wait>
+<AutoReply>False</AutoReply>
+<NoLogging>False</NoLogging>
+</Header>
+<DataItem>
+<L Count="3" Fixed="True" ItemName="">
+<U4 Count="1" Fixed="True" ItemName="">1566998527</U4>
+<U4 Count="1" Fixed="True" ItemName="">10824</U4>
+<L Count="2" Fixed="True" ItemName="">   
+<L Count="2" Fixed="True" ItemName="">
+   <U4 Count="1" Fixed="True" ItemName="">200</U4>
+   <L Count="6" Fixed="True" ItemName="">
+   <A Count="4" Fixed="True" ItemName="">SMIF</A>
+   <A Count="0" Fixed="True" ItemName=""></A>
+   <A Count="6" Fixed="True" ItemName="">(null)</A>
+   <A Count="2" Fixed="True" ItemName="">PU</A>
+   <A Count="2" Fixed="True" ItemName="">PL</A>
+   <U1 Count="1" Fixed="True" ItemName="">2</U1>
+</L>
+</L>
+<L Count="2" Fixed="True" ItemName="">
+   <U4 Count="1" Fixed="True" ItemName="">500</U4>
+   <L Count="3" Fixed="True" ItemName="">
+      <A Count="0" Fixed="True" ItemName=""></A>
+      <A Count="1" Fixed="True" ItemName="">1</A>
+      <A Count="10" Fixed="True" ItemName="">OC366</A>
+</L>
+</L>
+</L>
+</L>
+</DataItem>
+</S6F11_7>
+  
+<S6F11_8>
+<Header>
+<MessageName>S6F11_8</MessageName>
+<Description>TEST_8</Description>
+<Stream>6</Stream>
+<Function>11</Function>
+<Direction>H&lt;-E</Direction>
+<Wait>True</Wait>
+<AutoReply>False</AutoReply>
+<NoLogging>False</NoLogging>
+</Header>
+<DataItem>
+<L Count="3" Fixed="True" ItemName="">
+<U4 Count="1" Fixed="True" ItemName="DATAID">0</U4>
+<U4 Count="1" Fixed="True" ItemName="CEID">10803</U4>
+<L Count="3" Fixed="True" ItemName="RPTIDCOUNT">   
+<L Count="2" Fixed="True" ItemName="">
+   <U4 Count="1" Fixed="True" ItemName="RPTID">200</U4>
+   <L Count="6" Fixed="True" ItemName="VCOUNT">
+   <A Count="3" Fixed="True" ItemName="PortID">OpenCST</A>
+   <A Count="10" Fixed="True" ItemName="BOXID">CARRIERID1</A>
+   <A Count="9" Fixed="True" ItemName="CommandID">CommandID</A>
+   <A Count="2" Fixed="True" ItemName="Port1Type">PU</A>
+   <A Count="2" Fixed="True" ItemName="Port2Type">PL</A>
+   <U1 Count="1" Fixed="True" ItemName="MODE">2</U1>
+</L>
+</L>
+<L Count="2" Fixed="True" ItemName="">
+   <U4 Count="1" Fixed="True" ItemName="RPTID">300</U4>
+   <L Count="3" Fixed="True" ItemName="VCOUNT">
+      <U1 Count="1" Fixed="True" ItemName="LP1PORTSTATE">1</U1>
+      <A Count="2" Fixed="True" ItemName="LP1PORTTYPE">PL</A>
+      <A Count="6" Fixed="True" ItemName="LP1PORTACCESSMODE">MANUAL</A>
+</L>
+</L>
+<L Count="2" Fixed="True" ItemName="">
+   <U4 Count="1" Fixed="True" ItemName="RPTID">301</U4>
+   <L Count="3" Fixed="True" ItemName="VCOUNT">
+      <U1 Count="1" Fixed="True" ItemName="LP2PORTSTATE">1</U1>
+      <A Count="2" Fixed="True" ItemName="LP2PORTTYPE">PU</A>
+      <A Count="6" Fixed="True" ItemName="LP2PORTACCESSMODE">AUTO</A>
+</L>
+</L>
+</L>
+</L>
+</DataItem>
+</S6F11_8>
+   
+<S6F11_9>
+<Header>
+<MessageName>S6F11_9</MessageName>
+<Description>TEST_9</Description>
+<Stream>6</Stream>
+<Function>11</Function>
+<Direction>H&lt;-E</Direction>
+<Wait>True</Wait>
+<AutoReply>False</AutoReply>
+<NoLogging>False</NoLogging>
+</Header>
+<DataItem>
+<L Count="3" Fixed="True" ItemName="">
+<U4 Count="1" Fixed="True" ItemName="">1566994758</U4>
+<U4 Count="1" Fixed="True" ItemName="">10803</U4>
+<L Count="3" Fixed="True" ItemName="">   
+<L Count="2" Fixed="True" ItemName="">
+   <U4 Count="1" Fixed="True" ItemName="">200</U4>
+   <L Count="6" Fixed="True" ItemName="">
+   <A Count="4" Fixed="True" ItemName="">SMIF</A>
+   <A Count="0" Fixed="True" ItemName=""></A>
+   <A Count="0" Fixed="True" ItemName=""></A>
+   <A Count="2" Fixed="True" ItemName="">PL</A>
+   <A Count="2" Fixed="True" ItemName="">PU</A>
+   <U1 Count="1" Fixed="True" ItemName="">1</U1>
+</L>
+</L>
+<L Count="2" Fixed="True" ItemName="">
+   <U4 Count="1" Fixed="True" ItemName="">300</U4>
+   <L Count="3" Fixed="True" ItemName="">
+      <U1 Count="1" Fixed="True" ItemName="">2</U1>
+      <A Count="2" Fixed="True" ItemName="">PL</A>
+      <U1 Count="1" Fixed="True" ItemName="">2</U1>
+</L>
+</L>
+<L Count="2" Fixed="True" ItemName="">
+   <U4 Count="1" Fixed="True" ItemName="">301</U4>
+   <L Count="3" Fixed="True" ItemName="">
+      <U1 Count="1" Fixed="True" ItemName="">2</U1>
+      <A Count="2" Fixed="True" ItemName="">PU</A>
+      <U1 Count="1" Fixed="True" ItemName="">1</U1>
+</L>
+</L>
+</L>
+</L>
+</DataItem>
+</S6F11_9>
+   
+<S2F41>
+<Header>
+<MessageName>S2F41</MessageName>
+<Description>TEST</Description>
+<Stream>2</Stream>
+<Function>41</Function>
+<Direction>H-&gt;E</Direction>
+<Wait>True</Wait>
+<AutoReply>True</AutoReply>
+<NoLogging>False</NoLogging>
+</Header>
+<DataItem>
+<L Count="2" Fixed="True" ItemName="">
+<A Count="3" Fixed="True" ItemName="RCMD">MAP</A>
+<L Count="1" Fixed="True" ItemName="CPCOUNT">	
+<L Count="2" Fixed="True" ItemName="">
+	<A Count="6" Fixed="True" ItemName="CPNAME">PORTID</A>
+	<A Count="5" Fixed="True" ItemName="CPNAME">OpenCST</A>
+</L>
+</L>
+</L>
+</DataItem>
+</S2F41>
+	
+<S2F42>
+<Header>
+<MessageName>S2F42</MessageName>
+<Description PairName="S2F41">TEST</Description>
+<Stream>2</Stream>
+<Function>42</Function>
+<Direction>H&lt;-E</Direction>
+<Wait>False</Wait>
+<AutoReply>False</AutoReply>
+<NoLogging>False</NoLogging>
+</Header>
+<DataItem>
+<L Count="2" Fixed="True" ItemName="">
+<B Count="1" Fixed="True" ItemName="">0</B>
+<L Count="0" Fixed="True" ItemName=""></L>
+</L>
+</DataItem>
+</S2F42>	
+	
+<S2F49>
+<Header>
+<MessageName>S2F49</MessageName>
+<Description>TEST</Description>
+<Stream>2</Stream>
+<Function>49</Function>
+<Direction>H-&gt;E</Direction>
+<Wait>True</Wait>
+<AutoReply>False</AutoReply>
+<NoLogging>False</NoLogging>
+</Header>
+<DataItem>
+	<L Count="4" Fixed="True" ItemName="">
+	
+<U4 Count="1" Fixed="True" ItemName="DATAID">0</U4>
+<A Count="1" Fixed="True" ItemName="OBJECTSPEC">0</A>
+<A Count="8" Fixed="True" ItemName="RCMD">TRANSFER</A>
+	
+<L Count="2" Fixed="True" ItemName="PARAMENTERLIST">
+<L Count="2" Fixed="True" ItemName="">
+<A Count="11" Fixed="True" ItemName="COMMANDINFO">0</A>
+<L Count="2" Fixed="True" ItemName="">
+<A Count="6" Fixed="True" ItemName="COMMANDID">000001</A>
+<U2 Count="1" Fixed="True" ItemName="PRIORITY">1</U2>
+</L>	
+</L>	
+	
+<L Count="2" Fixed="True" ItemName="">
+<A Count="12" Fixed="True" ItemName="CPNAME">TRANSFERINFO</A>
+<L Count="5" Fixed="True" ItemName="">
+<A Count="7" Fixed="True" ItemName="SOURCE">OpenCST</A>
+<A Count="5" Fixed="True" ItemName="SCASID">OCSID</A>
+<L Count="0" Fixed="True" ItemName="WAFERINFO"></L>
+<A Count="4" Fixed="True" ItemName="DEST">SMIF</A>
+<A Count="6" Fixed="True" ItemName="DCASID">SMIF01</A>
+</L>
+</L>
+	
+</L>
+</L>
+</DataItem>
+</S2F49>
+	
+<S2F50>
+<Header>
+<MessageName>S2F50</MessageName>
+<Description PairName="S2F49">TEST</Description>
+<Stream>2</Stream>
+<Function>50</Function>
+<Direction>H&lt;-E</Direction>
+<Wait>False</Wait>
+<AutoReply>False</AutoReply>
+<NoLogging>False</NoLogging>
+</Header>
+<DataItem>
+<L Count="2" Fixed="True" ItemName="">
+<B Count="1" Fixed="True" ItemName="">0</B>
+<L Count="0" Fixed="True" ItemName=""></L>
+</L>
+</DataItem>
+</S2F50>	
+	
+	
+<S99F99>
+<Header>
+<MessageName>S99F99</MessageName>
+<Description>TEST_99</Description>
+<Stream>99</Stream>
+<Function>99</Function>
+<Direction>H-&gt;E</Direction>
+<Wait>True</Wait>
+<AutoReply>False</AutoReply>
+<NoLogging>False</NoLogging>
+</Header>
+<DataItem>
+<L Count="1" Fixed="True" ItemName="">
+<L Count="2" Fixed="True" ItemName="">
+<A Count="10" Fixed="True" ItemName="EQPID">          </A>
+<U2 Count="1" Fixed="True" ItemName="STATE">0</U2>
+</L>
+</L>
+</DataItem>
+</S99F99>
+
+	
+</SECSMessage>

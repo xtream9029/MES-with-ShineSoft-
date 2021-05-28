@@ -1,0 +1,831 @@
+<?xml version="1.0"?>
+<SECSMessage BuildDateTime="11/7/2019 4:31:19 PM">
+<S1F13>
+<Header>
+<MessageName>S1F13</MessageName>
+<Description>Establish Communications Request (CR)</Description>
+<Stream>1</Stream>
+<Function>13</Function>
+<Direction>H-&gt;E</Direction>
+<Wait>True</Wait>
+<AutoReply>True</AutoReply>
+<NoLogging>False</NoLogging>
+</Header>
+<DataItem>
+<L Count="2" Fixed="True" ItemName="">
+<A Count="4" Fixed="True" ItemName="MDLN">    </A>
+<A Count="6" Fixed="True" ItemName="SOFTREV">      </A>
+</L>
+</DataItem>
+</S1F13>
+<S1F14>
+<Header>
+<MessageName>S1F14</MessageName>
+<Description>Establish Communications Request Acknowledge (CRA)</Description>
+<Stream>1</Stream>
+<Function>14</Function>
+<Direction>H&lt;-E</Direction>
+<Wait>False</Wait>
+<AutoReply>False</AutoReply>
+<NoLogging>False</NoLogging>
+</Header>
+<DataItem>
+<L Count="2" Fixed="True" ItemName="">
+<B Count="1" Fixed="True" ItemName="COMMACK">0</B>
+<L Count="2" Fixed="True" ItemName="">
+<A Count="4" Fixed="True" ItemName="MDLN">    </A>
+<A Count="6" Fixed="True" ItemName="SOFTREV">      </A>
+</L>
+</L>
+</DataItem>
+</S1F14>
+<S1F101>
+<Header>
+<MessageName>S1F101</MessageName>
+<Description>Equipment Status Send</Description>
+<Stream>1</Stream>
+<Function>101</Function>
+<Direction>H-&gt;E</Direction>
+<Wait>True</Wait>
+<AutoReply>False</AutoReply>
+<NoLogging>False</NoLogging>
+</Header>
+<DataItem>
+<L Count="1" Fixed="True" ItemName="">
+<L Count="2" Fixed="True" ItemName="">
+<A Count="10" Fixed="True" ItemName="EQPID">          </A>
+<U2 Count="1" Fixed="True" ItemName="STATE">0</U2>
+</L>
+</L>
+</DataItem>
+</S1F101>
+<S1F102>
+<Header>
+<MessageName>S1F102</MessageName>
+<Description></Description>
+<Stream>1</Stream>
+<Function>102</Function>
+<Direction>H&lt;-E</Direction>
+<Wait>False</Wait>
+<AutoReply>False</AutoReply>
+<NoLogging>False</NoLogging>
+</Header>
+<DataItem>
+<B Count="1" Fixed="True" ItemName="ACK6">0</B>
+</DataItem>
+</S1F102>
+<S1F103>
+<Header>
+<MessageName>S1F103</MessageName>
+<Description>Selected TRACK Status Request (STR)</Description>
+<Stream>1</Stream>
+<Function>103</Function>
+<Direction>H-&gt;E</Direction>
+<Wait>True</Wait>
+<AutoReply>False</AutoReply>
+<NoLogging>False</NoLogging>
+</Header>
+<DataItem>
+<L Count="1" Fixed="True" ItemName="">
+<A Count="5" Fixed="True" ItemName="TRACK_NO">     </A>
+</L>
+</DataItem>
+</S1F103>
+<S1F104>
+<Header>
+<MessageName>S1F104</MessageName>
+<Description></Description>
+<Stream>1</Stream>
+<Function>104</Function>
+<Direction>H&lt;-E</Direction>
+<Wait>False</Wait>
+<AutoReply>False</AutoReply>
+<NoLogging>False</NoLogging>
+</Header>
+<DataItem>
+<L Count="1" Fixed="True" ItemName="">
+<L Count="4" Fixed="True" ItemName="">
+<A Count="5" Fixed="True" ItemName="TRACK_NO">     </A>
+<A Count="6" Fixed="True" ItemName="TRAY_ID_BOTTOM">      </A>
+<A Count="6" Fixed="True" ItemName="TRAY_ID_TOP">      </A>
+<U2 Count="1" Fixed="True" ItemName="TRACK_STATUS">0</U2>
+</L>
+</L>
+</DataItem>
+</S1F104>
+<S1F105>
+<Header>
+<MessageName>S1F105</MessageName>
+<Description>Selected TRAY Status Request (STR)</Description>
+<Stream>1</Stream>
+<Function>105</Function>
+<Direction>H-&gt;E</Direction>
+<Wait>True</Wait>
+<AutoReply>False</AutoReply>
+<NoLogging>False</NoLogging>
+</Header>
+<DataItem>
+<L Count="1" Fixed="True" ItemName="">
+<A Count="6" Fixed="True" ItemName="TRAYID">      </A>
+</L>
+</DataItem>
+</S1F105>
+<S1F106>
+<Header>
+<MessageName>S1F106</MessageName>
+<Description></Description>
+<Stream>1</Stream>
+<Function>106</Function>
+<Direction>H&lt;-E</Direction>
+<Wait>False</Wait>
+<AutoReply>False</AutoReply>
+<NoLogging>False</NoLogging>
+</Header>
+<DataItem>
+<L Count="1" Fixed="True" ItemName="">
+<L Count="4" Fixed="True" ItemName="">
+<A Count="5" Fixed="True" ItemName="TRACK_NO">     </A>
+<A Count="6" Fixed="True" ItemName="TRAY_ID_BOTTOM">      </A>
+<A Count="6" Fixed="True" ItemName="TRAY_ID_TOP">      </A>
+<U2 Count="1" Fixed="True" ItemName="TRACK_STATUS">0</U2>
+</L>
+</L>
+</DataItem>
+</S1F106>
+<S2F13>
+<Header>
+<MessageName>S2F13</MessageName>
+<Description>Equipment Constant Request (ECR)</Description>
+<Stream>2</Stream>
+<Function>13</Function>
+<Direction>H-&gt;E</Direction>
+<Wait>True</Wait>
+<AutoReply>False</AutoReply>
+<NoLogging>False</NoLogging>
+</Header>
+<DataItem>
+<L Count="1" Fixed="True" ItemName="">
+<A Count="5" Fixed="True" ItemName="TRACK_NO">     </A>
+</L>
+</DataItem>
+</S2F13>
+<S2F14>
+<Header>
+<MessageName>S2F14</MessageName>
+<Description></Description>
+<Stream>2</Stream>
+<Function>14</Function>
+<Direction>H&lt;-E</Direction>
+<Wait>False</Wait>
+<AutoReply>False</AutoReply>
+<NoLogging>False</NoLogging>
+</Header>
+<DataItem>
+<L Count="1" Fixed="True" ItemName="">
+<L Count="2" Fixed="True" ItemName="">
+<A Count="5" Fixed="True" ItemName="TRACK_NO">     </A>
+<A Count="20" Fixed="True" ItemName="SEC">                    </A>
+</L>
+</L>
+</DataItem>
+</S2F14>
+<S2F15>
+<Header>
+<MessageName>S2F15</MessageName>
+<Description>New Equipment Constant Send (ECS)</Description>
+<Stream>2</Stream>
+<Function>15</Function>
+<Direction>H-&gt;E</Direction>
+<Wait>True</Wait>
+<AutoReply>False</AutoReply>
+<NoLogging>False</NoLogging>
+</Header>
+<DataItem>
+<L Count="1" Fixed="True" ItemName="">
+<L Count="2" Fixed="True" ItemName="">
+<A Count="5" Fixed="True" ItemName="TRACK_NO">     </A>
+<A Count="20" Fixed="True" ItemName="SEC">                    </A>
+</L>
+</L>
+</DataItem>
+</S2F15>
+<S2F16>
+<Header>
+<MessageName>S2F16</MessageName>
+<Description></Description>
+<Stream>2</Stream>
+<Function>16</Function>
+<Direction>H&lt;-E</Direction>
+<Wait>False</Wait>
+<AutoReply>False</AutoReply>
+<NoLogging>False</NoLogging>
+</Header>
+<DataItem>
+<B Count="1" Fixed="True" ItemName="ECACK">0</B>
+</DataItem>
+</S2F16>
+<S2F41_101>
+<Header>
+<MessageName>S2F41_101</MessageName>
+<Description>Host Command Send(HCS)</Description>
+<Stream>2</Stream>
+<Function>41</Function>
+<Direction>H-&gt;E</Direction>
+<Wait>True</Wait>
+<AutoReply>False</AutoReply>
+<NoLogging>False</NoLogging>
+</Header>
+<DataItem>
+<L Count="3" Fixed="True" ItemName="">
+<U2 Count="1" Fixed="True" ItemName="RCMD">101</U2>
+<U2 Count="1" Fixed="True" ItemName="WORK_TYPE">2</U2>
+<L Count="1" Fixed="True" ItemName="">
+<L Count="5" Fixed="True" ItemName="">
+<A Count="5" Fixed="True" ItemName="STACKER_ID">     </A>
+<A Count="6" Fixed="True" ItemName="BOTTOM_TRAYID">      </A>
+<A Count="6" Fixed="True" ItemName="TOP_TRAYID">      </A>
+<A Count="11" Fixed="True" ItemName="LOCATION">           </A>
+<A Count="5" Fixed="True" ItemName="TO_TRACK">     </A>
+</L>
+</L>
+</L>
+</DataItem>
+</S2F41_101>
+<S2F42>
+<Header>
+<MessageName>S2F42</MessageName>
+<Description></Description>
+<Stream>2</Stream>
+<Function>42</Function>
+<Direction>H&lt;-E</Direction>
+<Wait>False</Wait>
+<AutoReply>False</AutoReply>
+<NoLogging>False</NoLogging>
+</Header>
+<DataItem>
+<B Count="1" Fixed="True" ItemName="HCACK2">0</B>
+</DataItem>
+</S2F42>
+<S2F41_102>
+<Header>
+<MessageName>S2F41_102</MessageName>
+<Description>Host Command Send(HCS)</Description>
+<Stream>2</Stream>
+<Function>41</Function>
+<Direction>H-&gt;E</Direction>
+<Wait>True</Wait>
+<AutoReply>False</AutoReply>
+<NoLogging>False</NoLogging>
+</Header>
+<DataItem>
+<L Count="7" Fixed="True" ItemName="">
+<U2 Count="1" Fixed="True" ItemName="RCMD">102</U2>
+<U2 Count="1" Fixed="True" ItemName="WORK_TYPE">4</U2>
+<A Count="5" Fixed="True" ItemName="STACKER_ID">     </A>
+<A Count="6" Fixed="True" ItemName="BOTTOM_TRAYID">      </A>
+<A Count="6" Fixed="True" ItemName="TOP_TRAYID">      </A>
+<A Count="11" Fixed="True" ItemName="FROM_LOCATION">           </A>
+<A Count="11" Fixed="True" ItemName="TO_LOCATION">           </A>
+</L>
+</DataItem>
+</S2F41_102>
+<S2F41_200>
+<Header>
+<MessageName>S2F41_200</MessageName>
+<Description>Host Command Send(HCS)</Description>
+<Stream>2</Stream>
+<Function>41</Function>
+<Direction>H-&gt;E</Direction>
+<Wait>True</Wait>
+<AutoReply>False</AutoReply>
+<NoLogging>False</NoLogging>
+</Header>
+<DataItem>
+<L Count="5" Fixed="True" ItemName="">
+<U2 Count="1" Fixed="True" ItemName="RCMD">200</U2>
+<U2 Count="1" Fixed="True" ItemName="WORK_TYPE">7</U2>
+<A Count="5" Fixed="True" ItemName="TACKER_ID">     </A>
+<U2 Count="1" Fixed="True" ItemName="ERROR_CODE">0</U2>
+<L Count="1" Fixed="True" ItemName="">
+<A Count="11" Fixed="True" ItemName="LOCATION">           </A>
+</L>
+</L>
+</DataItem>
+</S2F41_200>
+<S5F1>
+<Header>
+<MessageName>S5F1</MessageName>
+<Description>Alarm Report Send (ARS)</Description>
+<Stream>5</Stream>
+<Function>1</Function>
+<Direction>H&lt;-E</Direction>
+<Wait>True</Wait>
+<AutoReply>False</AutoReply>
+<NoLogging>False</NoLogging>
+</Header>
+<DataItem>
+<L Count="3" Fixed="True" ItemName="">
+<A Count="10" Fixed="True" ItemName="EQPID">          </A>
+<U2 Count="1" Fixed="True" ItemName="ALST">0</U2>
+<A Count="4" Fixed="True" ItemName="ALID">    </A>
+</L>
+</DataItem>
+</S5F1>
+<S5F2>
+<Header>
+<MessageName>S5F2</MessageName>
+<Description></Description>
+<Stream>5</Stream>
+<Function>2</Function>
+<Direction>H-&gt;E</Direction>
+<Wait>False</Wait>
+<AutoReply>False</AutoReply>
+<NoLogging>False</NoLogging>
+</Header>
+<DataItem>
+<B Count="1" Fixed="True" ItemName="ACKC5">0</B>
+</DataItem>
+</S5F2>
+<S5F101>
+<Header>
+<MessageName>S5F101</MessageName>
+<Description>MES Alarm Report Send (MARS)</Description>
+<Stream>5</Stream>
+<Function>101</Function>
+<Direction>H-&gt;E</Direction>
+<Wait>True</Wait>
+<AutoReply>True</AutoReply>
+<NoLogging>False</NoLogging>
+</Header>
+<DataItem>
+<L Count="3" Fixed="True" ItemName="">
+<A Count="6" Fixed="True" ItemName="BOTTOM_TRAYID">      </A>
+<A Count="6" Fixed="True" ItemName="TOP_TRAYID">      </A>
+<U2 Count="1" Fixed="True" ItemName="MES_CODE">0</U2>
+</L>
+</DataItem>
+</S5F101>
+<S5F102>
+<Header>
+<MessageName>S5F102</MessageName>
+<Description></Description>
+<Stream>5</Stream>
+<Function>102</Function>
+<Direction>H&lt;-E</Direction>
+<Wait>False</Wait>
+<AutoReply>False</AutoReply>
+<NoLogging>False</NoLogging>
+</Header>
+<DataItem>
+<B Count="1" Fixed="True" ItemName="ACKC5">0</B>
+</DataItem>
+</S5F102>
+<S6F11_101>
+<Header>
+<MessageName>S6F11_101</MessageName>
+<Description>Event Report Send (ERS)</Description>
+<Stream>6</Stream>
+<Function>11</Function>
+<Direction>H&lt;-E</Direction>
+<Wait>True</Wait>
+<AutoReply>False</AutoReply>
+<NoLogging>False</NoLogging>
+</Header>
+<DataItem>
+<L Count="2" Fixed="True" ItemName="">
+<U2 Count="1" Fixed="True" ItemName="CEID">101</U2>
+<L Count="5" Fixed="True" ItemName="">
+<A Count="5" Fixed="True" ItemName="FROM_TRACK">     </A>
+<A Count="5" Fixed="True" ItemName="TO_TRACK">     </A>
+<U2 Count="1" Fixed="True" ItemName="WORK_TYPE">0</U2>
+<A Count="6" Fixed="True" ItemName="BOTTOM_TRAYID">      </A>
+<A Count="6" Fixed="True" ItemName="TOP_TRAYID">      </A>
+</L>
+</L>
+</DataItem>
+</S6F11_101>
+<S6F12_101>
+<Header>
+<MessageName>S6F12_101</MessageName>
+<Description></Description>
+<Stream>6</Stream>
+<Function>12</Function>
+<Direction>H-&gt;E</Direction>
+<Wait>False</Wait>
+<AutoReply>False</AutoReply>
+<NoLogging>False</NoLogging>
+</Header>
+<DataItem>
+<L Count="6" Fixed="True" ItemName="">
+<U2 Count="1" Fixed="True" ItemName="ERACK6">0</U2>
+<U2 Count="1" Fixed="True" ItemName="CEID">0</U2>
+<A Count="5" Fixed="True" ItemName="FROM_TRACK">     </A>
+<A Count="5" Fixed="True" ItemName="TRACK_NO">     </A>
+<U2 Count="1" Fixed="True" ItemName="RESPONSE">0</U2>
+<L Count="1" Fixed="True" ItemName="">
+<L Count="5" Fixed="True" ItemName="">
+<A Count="6" Fixed="True" ItemName="BOTTOM_TRAYID">      </A>
+<A Count="6" Fixed="True" ItemName="TOP_TRAYID">      </A>
+<A Count="11" Fixed="True" ItemName="LOCATION">           </A>
+<A Count="14" Fixed="True" ItemName="TIME">              </A>
+<A Count="9" Fixed="True" ItemName="DURATION">         </A>
+</L>
+</L>
+</L>
+</DataItem>
+</S6F12_101>
+<S6F11_104>
+<Header>
+<MessageName>S6F11_104</MessageName>
+<Description>Event Report Send (ERS)</Description>
+<Stream>6</Stream>
+<Function>11</Function>
+<Direction>H&lt;-E</Direction>
+<Wait>True</Wait>
+<AutoReply>False</AutoReply>
+<NoLogging>False</NoLogging>
+</Header>
+<DataItem>
+<L Count="2" Fixed="True" ItemName="">
+<U2 Count="1" Fixed="True" ItemName="CEID">104</U2>
+<L Count="3" Fixed="True" ItemName="">
+<A Count="5" Fixed="True" ItemName="TRACKID">     </A>
+<A Count="6" Fixed="True" ItemName="BOTTOM_TRAYID">      </A>
+<A Count="6" Fixed="True" ItemName="TOP_TRAYID">      </A>
+</L>
+</L>
+</DataItem>
+</S6F11_104>
+<S6F12_104>
+<Header>
+<MessageName>S6F12_104</MessageName>
+<Description></Description>
+<Stream>6</Stream>
+<Function>12</Function>
+<Direction>H-&gt;E</Direction>
+<Wait>False</Wait>
+<AutoReply>False</AutoReply>
+<NoLogging>False</NoLogging>
+</Header>
+<DataItem>
+<L Count="6" Fixed="True" ItemName="">
+<U2 Count="1" Fixed="True" ItemName="ERACK6">0</U2>
+<U2 Count="1" Fixed="True" ItemName="CEID">0</U2>
+<A Count="5" Fixed="True" ItemName="FROM_TRACK">     </A>
+<A Count="5" Fixed="True" ItemName="TRACK_NO">     </A>
+<U2 Count="1" Fixed="True" ItemName="RESPONSE">0</U2>
+<L Count="1" Fixed="True" ItemName="">
+<L Count="5" Fixed="True" ItemName="">
+<A Count="6" Fixed="True" ItemName="BOTTOM_TRAYID">      </A>
+<A Count="6" Fixed="True" ItemName="TOP_TRAYID">      </A>
+<A Count="11" Fixed="True" ItemName="LOCATION">           </A>
+<A Count="14" Fixed="True" ItemName="TIME">              </A>
+<A Count="9" Fixed="True" ItemName="DURATION">         </A>
+</L>
+</L>
+</L>
+</DataItem>
+</S6F12_104>
+<S6F11_201>
+<Header>
+<MessageName>S6F11_201</MessageName>
+<Description>Event Report Send (ERS)</Description>
+<Stream>6</Stream>
+<Function>11</Function>
+<Direction>H&lt;-E</Direction>
+<Wait>True</Wait>
+<AutoReply>False</AutoReply>
+<NoLogging>False</NoLogging>
+</Header>
+<DataItem>
+<L Count="4" Fixed="True" ItemName="">
+<U2 Count="1" Fixed="True" ItemName="CEID">201</U2>
+<U2 Count="1" Fixed="True" ItemName="WORK_TYPE">0</U2>
+<A Count="5" Fixed="True" ItemName="STACKER_ID">     </A>
+<L Count="1" Fixed="True" ItemName="">
+<L Count="4" Fixed="True" ItemName="">
+<A Count="5" Fixed="True" ItemName="TRACKID">     </A>
+<A Count="6" Fixed="True" ItemName="BOTTOM_TRAYID">      </A>
+<A Count="6" Fixed="True" ItemName="TOP_TRAYID">      </A>
+<A Count="11" Fixed="True" ItemName="LOCATION">           </A>
+</L>
+</L>
+</L>
+</DataItem>
+</S6F11_201>
+<S6F12_201>
+<Header>
+<MessageName>S6F12_201</MessageName>
+<Description></Description>
+<Stream>6</Stream>
+<Function>12</Function>
+<Direction>H-&gt;E</Direction>
+<Wait>False</Wait>
+<AutoReply>False</AutoReply>
+<NoLogging>False</NoLogging>
+</Header>
+<DataItem>
+<L Count="6" Fixed="True" ItemName="">
+<U2 Count="1" Fixed="True" ItemName="ERACK6">0</U2>
+<U2 Count="1" Fixed="True" ItemName="CEID">0</U2>
+<A Count="5" Fixed="True" ItemName="FROM_TRACK">     </A>
+<A Count="5" Fixed="True" ItemName="TRACK_NO">     </A>
+<U2 Count="1" Fixed="True" ItemName="RESPONSE">0</U2>
+<L Count="1" Fixed="True" ItemName="">
+<L Count="5" Fixed="True" ItemName="">
+<A Count="6" Fixed="True" ItemName="BOTTOM_TRAYID">      </A>
+<A Count="6" Fixed="True" ItemName="TOP_TRAYID">      </A>
+<A Count="11" Fixed="True" ItemName="LOCATION">           </A>
+<A Count="14" Fixed="True" ItemName="TIME">              </A>
+<A Count="9" Fixed="True" ItemName="DURATION">         </A>
+</L>
+</L>
+</L>
+</DataItem>
+</S6F12_201>
+<S6F11_205>
+<Header>
+<MessageName>S6F11_205</MessageName>
+<Description>Event Report Send (ERS)</Description>
+<Stream>6</Stream>
+<Function>11</Function>
+<Direction>H&lt;-E</Direction>
+<Wait>True</Wait>
+<AutoReply>False</AutoReply>
+<NoLogging>False</NoLogging>
+</Header>
+<DataItem>
+<L Count="2" Fixed="True" ItemName="">
+<U2 Count="1" Fixed="True" ItemName="CEID">205</U2>
+<L Count="6" Fixed="True" ItemName="">
+<A Count="5" Fixed="True" ItemName="STACKER_ID">     </A>
+<A Count="6" Fixed="True" ItemName="TOP_TRAYID">      </A>
+<A Count="6" Fixed="True" ItemName="BOTTOM_TRAYID">      </A>
+<U2 Count="1" Fixed="True" ItemName="WORK_TYPE">0</U2>
+<A Count="11" Fixed="True" ItemName="FROM_LOCATION">           </A>
+<A Count="11" Fixed="True" ItemName="TO_LOCATION">           </A>
+</L>
+</L>
+</DataItem>
+</S6F11_205>
+<S6F12_205>
+<Header>
+<MessageName>S6F12_205</MessageName>
+<Description></Description>
+<Stream>6</Stream>
+<Function>12</Function>
+<Direction>H-&gt;E</Direction>
+<Wait>False</Wait>
+<AutoReply>False</AutoReply>
+<NoLogging>False</NoLogging>
+</Header>
+<DataItem>
+<L Count="6" Fixed="True" ItemName="">
+<U2 Count="1" Fixed="True" ItemName="ERACK6">0</U2>
+<U2 Count="1" Fixed="True" ItemName="CEID">0</U2>
+<A Count="5" Fixed="True" ItemName="FROM_TRACK">     </A>
+<A Count="5" Fixed="True" ItemName="TRACK_NO">     </A>
+<U2 Count="1" Fixed="True" ItemName="RESPONSE">0</U2>
+<L Count="1" Fixed="True" ItemName="">
+<L Count="5" Fixed="True" ItemName="">
+<A Count="6" Fixed="True" ItemName="BOTTOM_TRAYID">      </A>
+<A Count="6" Fixed="True" ItemName="TOP_TRAYID">      </A>
+<A Count="11" Fixed="True" ItemName="LOCATION">           </A>
+<A Count="14" Fixed="True" ItemName="TIME">              </A>
+<A Count="9" Fixed="True" ItemName="DURATION">         </A>
+</L>
+</L>
+</L>
+</DataItem>
+</S6F12_205>
+<S6F11_301>
+<Header>
+<MessageName>S6F11_301</MessageName>
+<Description>Event Report Send (ERS)</Description>
+<Stream>6</Stream>
+<Function>11</Function>
+<Direction>H&lt;-E</Direction>
+<Wait>True</Wait>
+<AutoReply>False</AutoReply>
+<NoLogging>False</NoLogging>
+</Header>
+<DataItem>
+<L Count="2" Fixed="True" ItemName="">
+<U2 Count="1" Fixed="True" ItemName="CEID">301</U2>
+<L Count="9" Fixed="True" ItemName="">
+<A Count="5" Fixed="True" ItemName="STACKER_ID">     </A>
+<U2 Count="1" Fixed="True" ItemName="STACKER_STATUS">0</U2>
+<U2 Count="1" Fixed="True" ItemName="ERROR_CODE">0</U2>
+<A Count="6" Fixed="True" ItemName="POS">      </A>
+<U2 Count="1" Fixed="True" ItemName="PHSF">0</U2>
+<U2 Count="1" Fixed="True" ItemName="PHSR">0</U2>
+<U2 Count="1" Fixed="True" ItemName="LOADF">0</U2>
+<U2 Count="1" Fixed="True" ItemName="LOADR">0</U2>
+<U2 Count="1" Fixed="True" ItemName="OJC">0</U2>
+</L>
+</L>
+</DataItem>
+</S6F11_301>
+<S6F12_301>
+<Header>
+<MessageName>S6F12_301</MessageName>
+<Description></Description>
+<Stream>6</Stream>
+<Function>12</Function>
+<Direction>H-&gt;E</Direction>
+<Wait>False</Wait>
+<AutoReply>False</AutoReply>
+<NoLogging>False</NoLogging>
+</Header>
+<DataItem>
+<L Count="6" Fixed="True" ItemName="">
+<U2 Count="1" Fixed="True" ItemName="ERACK6">0</U2>
+<U2 Count="1" Fixed="True" ItemName="CEID">0</U2>
+<A Count="5" Fixed="True" ItemName="FROM_TRACK">     </A>
+<A Count="5" Fixed="True" ItemName="TRACK_NO">     </A>
+<U2 Count="1" Fixed="True" ItemName="RESPONSE">0</U2>
+<L Count="1" Fixed="True" ItemName="">
+<L Count="5" Fixed="True" ItemName="">
+<A Count="6" Fixed="True" ItemName="BOTTOM_TRAYID">      </A>
+<A Count="6" Fixed="True" ItemName="TOP_TRAYID">      </A>
+<A Count="11" Fixed="True" ItemName="LOCATION">           </A>
+<A Count="14" Fixed="True" ItemName="TIME">              </A>
+<A Count="9" Fixed="True" ItemName="DURATION">         </A>
+</L>
+</L>
+</L>
+</DataItem>
+</S6F12_301>
+<S6F11_303>
+<Header>
+<MessageName>S6F11_303</MessageName>
+<Description>Event Report Send (ERS)</Description>
+<Stream>6</Stream>
+<Function>11</Function>
+<Direction>H&lt;-E</Direction>
+<Wait>True</Wait>
+<AutoReply>False</AutoReply>
+<NoLogging>False</NoLogging>
+</Header>
+<DataItem>
+<L Count="9" Fixed="True" ItemName="">
+<U2 Count="1" Fixed="True" ItemName="CEID">303</U2>
+<A Count="5" Fixed="True" ItemName="STACKER_ID">     </A>
+<U2 Count="1" Fixed="True" ItemName="WORK_TYPE">0</U2>
+<A Count="14" Fixed="True" ItemName="CMD_TIME">              </A>
+<A Count="14" Fixed="True" ItemName="SC_STARTTIME">              </A>
+<A Count="11" Fixed="True" ItemName="START_LOCATION">           </A>
+<A Count="14" Fixed="True" ItemName="WORK_COMPLETE_TIME">              </A>
+<A Count="10" Fixed="True" ItemName="IN_OUT_POSITION">          </A>
+<L Count="1" Fixed="True" ItemName="">
+<L Count="7" Fixed="True" ItemName="">
+<A Count="11" Fixed="True" ItemName="LOCATION">           </A>
+<A Count="6" Fixed="True" ItemName="BOTTOM_TRAYID">      </A>
+<A Count="6" Fixed="True" ItemName="TOP_TRAYID">      </A>
+<A Count="14" Fixed="True" ItemName="PICKTIME">              </A>
+<A Count="14" Fixed="True" ItemName="IN_HOME_POSTIME">              </A>
+<A Count="14" Fixed="True" ItemName="OUT_HOME_POSTIME">              </A>
+<A Count="14" Fixed="True" ItemName="COMPLETE_TIME">              </A>
+</L>
+</L>
+</L>
+</DataItem>
+</S6F11_303>
+<S6F12_303>
+<Header>
+<MessageName>S6F12_303</MessageName>
+<Description></Description>
+<Stream>6</Stream>
+<Function>12</Function>
+<Direction>H-&gt;E</Direction>
+<Wait>False</Wait>
+<AutoReply>False</AutoReply>
+<NoLogging>False</NoLogging>
+</Header>
+<DataItem>
+<L Count="6" Fixed="True" ItemName="">
+<U2 Count="1" Fixed="True" ItemName="ERACK6">0</U2>
+<U2 Count="1" Fixed="True" ItemName="CEID">0</U2>
+<A Count="5" Fixed="True" ItemName="FROM_TRACK">     </A>
+<A Count="5" Fixed="True" ItemName="TRACK_NO">     </A>
+<U2 Count="1" Fixed="True" ItemName="RESPONSE">0</U2>
+<L Count="1" Fixed="True" ItemName="">
+<L Count="5" Fixed="True" ItemName="">
+<A Count="6" Fixed="True" ItemName="BOTTOM_TRAYID">      </A>
+<A Count="6" Fixed="True" ItemName="TOP_TRAYID">      </A>
+<A Count="11" Fixed="True" ItemName="LOCATION">           </A>
+<A Count="14" Fixed="True" ItemName="TIME">              </A>
+<A Count="9" Fixed="True" ItemName="DURATION">         </A>
+</L>
+</L>
+</L>
+</DataItem>
+</S6F12_303>
+<S6F11_501>
+<Header>
+<MessageName>S6F11_501</MessageName>
+<Description>Event Report Send (ERS)</Description>
+<Stream>6</Stream>
+<Function>11</Function>
+<Direction>H&lt;-E</Direction>
+<Wait>True</Wait>
+<AutoReply>False</AutoReply>
+<NoLogging>False</NoLogging>
+</Header>
+<DataItem>
+<L Count="2" Fixed="True" ItemName="">
+<U2 Count="1" Fixed="True" ItemName="CEID">501</U2>
+<L Count="1" Fixed="True" ItemName="">
+<L Count="2" Fixed="True" ItemName="">
+<A Count="5" Fixed="True" ItemName="TRACK_NO">     </A>
+<A Count="20" Fixed="True" ItemName="SEC">                    </A>
+</L>
+</L>
+</L>
+</DataItem>
+</S6F11_501>
+<S6F12_501>
+<Header>
+<MessageName>S6F12_501</MessageName>
+<Description></Description>
+<Stream>6</Stream>
+<Function>12</Function>
+<Direction>H-&gt;E</Direction>
+<Wait>False</Wait>
+<AutoReply>False</AutoReply>
+<NoLogging>False</NoLogging>
+</Header>
+<DataItem>
+<L Count="6" Fixed="True" ItemName="">
+<U2 Count="1" Fixed="True" ItemName="ERACK6">0</U2>
+<U2 Count="1" Fixed="True" ItemName="CEID">0</U2>
+<A Count="5" Fixed="True" ItemName="FROM_TRACK">     </A>
+<A Count="5" Fixed="True" ItemName="TRACK_NO">     </A>
+<U2 Count="1" Fixed="True" ItemName="RESPONSE">0</U2>
+<L Count="1" Fixed="True" ItemName="">
+<L Count="5" Fixed="True" ItemName="">
+<A Count="6" Fixed="True" ItemName="BOTTOM_TRAYID">      </A>
+<A Count="6" Fixed="True" ItemName="TOP_TRAYID">      </A>
+<A Count="11" Fixed="True" ItemName="LOCATION">           </A>
+<A Count="14" Fixed="True" ItemName="TIME">              </A>
+<A Count="9" Fixed="True" ItemName="DURATION">         </A>
+</L>
+</L>
+</L>
+</DataItem>
+</S6F12_501>
+<S6F11_503>
+<Header>
+<MessageName>S6F11_503</MessageName>
+<Description>Event Report Send (ERS)</Description>
+<Stream>6</Stream>
+<Function>11</Function>
+<Direction>H&lt;-E</Direction>
+<Wait>True</Wait>
+<AutoReply>False</AutoReply>
+<NoLogging>False</NoLogging>
+</Header>
+<DataItem>
+<L Count="2" Fixed="True" ItemName="">
+<U2 Count="1" Fixed="True" ItemName="CEID">501</U2>
+<L Count="1" Fixed="True" ItemName="">
+<L Count="3" Fixed="True" ItemName="">
+<A Count="4" Fixed="True" ItemName="SC_NO">    </A>
+<A Count="11" Fixed="True" ItemName="LOCATION">           </A>
+<A Count="1" Fixed="True" ItemName="CELL_STATUS"> </A>
+</L>
+</L>
+</L>
+</DataItem>
+</S6F11_503>
+<S6F12_503>
+<Header>
+<MessageName>S6F12_503</MessageName>
+<Description></Description>
+<Stream>6</Stream>
+<Function>12</Function>
+<Direction>H-&gt;E</Direction>
+<Wait>False</Wait>
+<AutoReply>False</AutoReply>
+<NoLogging>False</NoLogging>
+</Header>
+<DataItem>
+<L Count="6" Fixed="True" ItemName="">
+<U2 Count="1" Fixed="True" ItemName="ERACK6">0</U2>
+<U2 Count="1" Fixed="True" ItemName="CEID">0</U2>
+<A Count="5" Fixed="True" ItemName="FROM_TRACK">     </A>
+<A Count="5" Fixed="True" ItemName="TRACK_NO">     </A>
+<U2 Count="1" Fixed="True" ItemName="RESPONSE">0</U2>
+<L Count="1" Fixed="True" ItemName="">
+<L Count="5" Fixed="True" ItemName="">
+<A Count="6" Fixed="True" ItemName="BOTTOM_TRAYID">      </A>
+<A Count="6" Fixed="True" ItemName="TOP_TRAYID">      </A>
+<A Count="11" Fixed="True" ItemName="LOCATION">           </A>
+<A Count="14" Fixed="True" ItemName="TIME">              </A>
+<A Count="9" Fixed="True" ItemName="DURATION">         </A>
+</L>
+</L>
+</L>
+</DataItem>
+</S6F12_503>
+</SECSMessage>
